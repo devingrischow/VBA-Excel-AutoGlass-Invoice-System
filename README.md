@@ -16,4 +16,4 @@ Workbooks and invoices have lots of time-saving features implemented. For exampl
 
 ![VBA Excel Workbook Controls](media/VBA-Excel-Workbook-Modification.png)
 
-**All Pricing info is placeholder data, all involved clients privacy is respected
+**All Data is placeholder data
