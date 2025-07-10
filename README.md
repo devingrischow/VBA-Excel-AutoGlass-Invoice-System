@@ -1,4 +1,4 @@
-# VBA-Excel-AutoGlass-Invoice-System
+# VBA-Excel-Invoicing-Workbook-System
 
 This is a public version of a project requested by a client for a tailored invoicing software able to handle inventory management, invoice creation, and different pricing for clients’ needs and use cases. Something highly adjustable, easy to use and navigate, and be contained inside Excel.
 
